@@ -1,6 +1,6 @@
 # go-gin-sample
 
-Sample Go + Gin app used by Splicer's real-Railway e2e test rotation (#1041).
+Sample Go + Gin app used by TeamCoder's real-Railway e2e test rotation (#1041).
 
 - `GET /` — hello-world
 - `GET /healthz` — liveness
